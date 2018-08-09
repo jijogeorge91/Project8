@@ -1,4 +1,2 @@
 BMW
-Amaze 
-WagonR
-Bullet
+Benz
